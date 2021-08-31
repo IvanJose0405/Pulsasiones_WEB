@@ -1,0 +1,33 @@
+<html>
+   <head>
+       <link rel="stylesheet" href="Estilo.css">
+       <script type="text/javascript" src="CalcularPulsasiones.js"> </script>
+
+   </head> 
+   <header>
+       <h3>Registro de pacientes</h3>
+   </header>
+   <nav class="Menu">
+    <a href="Index.html">Inicio</a>
+    <a href="Registro.html">Rergistro de personas</a>
+    <a href="ConsultarRegistro.html">Registro de Pulsasiones</a>
+   </nav>
+   <form action="">
+       <div>
+           <label for="">Ingrese su identificacion:</label>
+           <input type="number"  id="Identificacion">
+           <label for="">Ingrese su nombre:</label>
+           <input type="text" id="Nombre">
+           <label for="">Digite su edad:</label>
+        
+           <input type="number" id="Edad1">
+           <select name="Select" class="Margin-y"  id="Cmbsex">
+
+            <option value="M">Masculino</option>
+            <option value="F">Femenino</option>
+           </select>
+           <button onclick="Calcular()" type="button" class="marging-y">Calcular</button>
+
+       </div>
+   </form>
+</html>

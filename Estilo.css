@@ -1,0 +1,118 @@
+header{
+    text-align: center;
+    background-color: #53b8bb;
+    border-style: solid;
+    border-color: #055052;
+    color: black;
+    border-radius: 20px;
+    
+    }
+    article{
+    margin-left: 5%;
+    float:left;
+    color: white;
+    }
+    body{
+    background-color: #003638;
+    
+    }
+    
+    #Imagen {
+    margin-top: 3%;
+    margin-left: 20%;
+    border-radius: 5px;
+    
+    }
+    #Imagen2{
+        margin-top: 2%;
+        margin-left: 20%;
+        border-radius: 5px;
+        
+     }
+    
+    .Menu a{
+    padding-top: 10%;
+    color: white;
+    padding-bottom: 10%;
+    display: block;
+    text-align: center;
+    
+    }
+    .Menu a:hover{
+    background-color: #055052;
+    color: white;
+    
+    }
+    nav{
+        margin-top: 10px;
+        padding-top: 50px;
+        float:left;
+        width: 10%;
+        height: 300px;
+        background-color:#53b8bb;
+        border-style: solid;
+        border-color: #055052;
+        border-radius: 20px;
+    display: block;
+    }
+    
+    form{
+    
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 5%;
+    border-style:solid;
+    background-color: #53b8bb;
+    border-radius: 7px;
+    border-color: #055052;
+    }
+    
+    input{
+        
+        border-style: ridge;
+        border-radius: 5px;
+        padding-top: 5px;
+        margin-top: 5px;
+        margin-left: 40%;
+        
+    }
+    #Label1{
+    
+    margin-bottom: 40px;
+    
+    }
+    .marging-y{
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    label{
+    
+        margin-left: 40%;
+        margin-bottom: 30px;
+    }
+    div{
+        margin-left: 30px;
+        
+    }
+    
+    #TablaDescripcion{
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 12%;
+    color:white;
+    background-color: #055052;
+    
+    
+    }
+    
+    #maindi{
+        margin-left: 20px;
+        margin-right: 20px;
+    
+    }
+    td,th{
+        border: 2px solid #53b8bb;
+        text-align: center;
+    }
+    
